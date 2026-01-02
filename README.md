@@ -93,5 +93,4 @@ Target users:
 
 ## 📄 Publication
 
-  year={}
-}
+Hamdi, Y., Akouaydi, H., Boubaker, H. et al. Handwriting quality analysis using online-offline models. Multimed Tools Appl 81, 43411–43439 (2022). https://doi.org/10.1007/s11042-022-13228-w
